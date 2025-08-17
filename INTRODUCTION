@@ -1,0 +1,3 @@
+PCAP Forensic Analysis
+This repository documents a hands-on investigation of a network packet capture (Challenge.pcap) to identify Indicators of Compromise (IOCs) from a simulated cyber attack.
+Using Wireshark, I performed a forensic analysis of the network traffic to uncover a multi-stage attack, identifying evidence of network reconnaissance, anomalous high-volume traffic, and data exfiltration via DNS tunneling. This project serves as a practical demonstration of the core skills used by a Security Operations Center (SOC) Analyst, including threat hunting, network traffic analysis, and incident reporting.
